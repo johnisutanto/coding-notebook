@@ -1,1 +1,3 @@
-# coding-notebook
+# Coding Notebook
+
+Common coding patterns in Typescript / Javascript
